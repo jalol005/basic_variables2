@@ -1,0 +1,1 @@
+//Create a variable called "courseGrade" of type double and assign your grade in a course as the value.

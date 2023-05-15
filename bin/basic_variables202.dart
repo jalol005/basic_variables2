@@ -1,0 +1,1 @@
+// Declare a variable called "temperature" of type double and assign the current temperature in Celsius as the value.
